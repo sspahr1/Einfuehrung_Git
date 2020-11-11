@@ -7,6 +7,6 @@ public class Main {
         System.out.println("Du Hund");
 
         System.out.println("Ich hab keine guns");
-        System.out.println("Ich hab 21 likes");
+        System.out.println("Ich hab 21 likes and 2 dislikes");
     }
 }
