@@ -8,5 +8,7 @@ public class Main {
 
         System.out.println("Ich hab keine guns");
         System.out.println("Ich hab 21 likes");
+
+        System.out.println("ITP is a kas");
     }
 }
